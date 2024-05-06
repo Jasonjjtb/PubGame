@@ -1,0 +1,4 @@
+repository "Pub Game@MunchnBregar@cloud"
+  path "/"
+    br "/main"
+    co "/main"
